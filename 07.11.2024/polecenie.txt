@@ -1,0 +1,17 @@
+Zadanie domowe:
+ (5 pkt) Proszę zaprojektować hierarchię dziedziczenia dla jednego z tematów
+wypisanych na końcu instrukcji. Tematy nie mogą powtarzać się między różnymi
+osobami – proszę zadbać o to we własnym zakresie. Hierarchia powinna zawierać co
+najmniej pięć klas ułożonych w co najmniej trzy poziomy dziedziczenia (tj. musi być
+przynajmniej jedna taka sytuacja, że A dziedziczy po B, a B dziedziczy po C),
+stosować się do reguł zaprezentowanych w przykładzie oraz unikać błędów
+zaprezentowanych w antyprzykładzie. Podany temat należy rozumieć jako ogólne
+określenie tego, o czym ma być Państwa projekt – nie ma obowiązku, aby np. klasa
+bazowa nazywała się dokładnie tak samo jak dany temat.
+ (5 pkt) Po zaprojektowaniu hierarchii, proszę ją zaimplementować w kodzie,
+wyposażając każdą klasę w przynajmniej jeden konstruktor oparty o słowo kluczowe
+base. Wyjątkiem jest klasa bazowa na samym szczycie hierarchii, gdzie oczywiście
+należy użyć konstruktora bez słowa kluczowego base.
+Uwaga: za implementację można otrzymać co najwyżej tyle samo punktów co za
+zaprojektowanie hierarchii – czyli jeżeli ktoś otrzyma 3 pkt za projekt, to implementacja
+takiego projektu również może być warta nie więcej niż 3 pkt. 
