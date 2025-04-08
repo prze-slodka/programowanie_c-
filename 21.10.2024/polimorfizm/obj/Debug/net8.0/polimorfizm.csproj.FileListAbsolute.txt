@@ -1,0 +1,14 @@
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.AssemblyInfoInputs.cache
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.AssemblyInfo.cs
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.csproj.CoreCompileInputs.cache
+D:\programowanie\frankoś\21.10.2024\polimorfizm\bin\Debug\net8.0\polimorfizm.exe
+D:\programowanie\frankoś\21.10.2024\polimorfizm\bin\Debug\net8.0\polimorfizm.deps.json
+D:\programowanie\frankoś\21.10.2024\polimorfizm\bin\Debug\net8.0\polimorfizm.runtimeconfig.json
+D:\programowanie\frankoś\21.10.2024\polimorfizm\bin\Debug\net8.0\polimorfizm.dll
+D:\programowanie\frankoś\21.10.2024\polimorfizm\bin\Debug\net8.0\polimorfizm.pdb
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.dll
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\refint\polimorfizm.dll
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.pdb
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\polimorfizm.genruntimeconfig.cache
+D:\programowanie\frankoś\21.10.2024\polimorfizm\obj\Debug\net8.0\ref\polimorfizm.dll
