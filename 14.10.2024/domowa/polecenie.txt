@@ -1,0 +1,49 @@
+Zadanie domowe:
+W ramach zadania domowego należy wybrać i rozwiązać jeden z poniższych problemów
+(uwaga – maksymalna liczba punktów różni się pomiędzy problemami).
+ (6 pkt) Proszę zrealizować wszystkie podpunkty z powyższej instrukcji i opisać każdy
+z nich krótkim komentarzem w kodzie.
+ (10 pkt) W średniowiecznym zamku przebywają dwa typy mieszkańców: obrońcy i
+cywile, przy czym obrońcy dodatkowo dzielą się na kuszników i pikinierów. Proszę
+napisać program, który będzie zawierał następujące elementy:
+o Każdy mieszkaniec powinien udostępniać metodę int Eat( ), która zwróci
+liczbę jednostek żywnościowych potrzebnych dla danej osoby. Metoda ta
+powinna działać identycznie dla wszystkich mieszkańców.
+o Każdy obrońca powinien udostępniać metodę string ReadyToFight( ), która
+zwróci napis informujący o gotowości obrońcy do walki. Napis ten powinien
+być różny dla kuszników i pikinierów, natomiast cywile w ogóle nie powinni
+posiadać tej metody.
+o Każda ze stworzonych klas powinna posiadać własną wersję metody string
+ToString( ), informującej o przynależności mieszkańca do grona cywili/
+obrońców/kuszników/pikinierów.
+o W funkcji Main należy stworzyć po kilka obiektów z każdej klasy i umieścić je
+na odpowiednich listach dla zarządcy zamku: lista wszystkich kuszników, lista
+wszystkich obrońców, lista wszystkich mieszkańców.
+o Dla list przechowujących wszystkich kuszników i wszystkich obrońców należy
+następnie wywołać metodę ReadyToFight i wyświetlić wyniki, dla listy
+przechowującej wszystkich mieszkańców należy wywołać metody ToString
+Eat i wyświetlić wyniki.
+ (10 pkt) W fabryce pracują roboty i ludzie, przy czym roboty dzielą się na komputery
+oraz roboty mechaniczne, natomiast ludzie dzielą się na pracowników fizycznych oraz
+biurowych. Proszę napisać program, który będzie zawierał następujące elementy:
+o Każdy robot powinien udostępniać metodę int AnnualCost( ), która zwróci
+roczny koszt używania robota na podstawie jego typu. Dostępne typy powinny
+być ustawiane w konstruktorze i różnić się dla robotów mechanicznych oraz
+dla komputerów. (Wystarczy przechowywać ich nazwę w zwykłym napisie.)
+o Każdy człowiek powinien udostępniać metodę int Cost(int months), która
+zwróci łączny koszt zatrudnienia pracownika na podstawie liczby miesięcy.
+Sposób obliczenia kwoty powinien być różny dla pracowników fizycznych i
+biurowych.
+o Każdy komputer i każdy pracownik biurowy powinien udostępniać getter do
+właściwości bool InternetConnection, która informuje o aktualnym stanie
+połączenia z internetem.
+o W funkcji Main należy stworzyć po kilka obiektów każdej klasy i umieścić je
+na odpowiednich listach dla administracji: lista wszystkich robotów, lista
+wszystkich ludzi, lista wszystkich stanowisk (ludzi lub robotów)
+potrzebujących połączenia z internetem.
+o Dla każdej z powyższych list należy następnie wywołać odpowiednie metody:
+dla listy robotów metodę AnnualCost (proszę zsumować łączny koszt
+eksploatacji dla wszystkich robotów), dla listy ludzi metodę Cost (proszę
+zsumować łączny koszt eksploatacji dla wszystkich ludzi – liczbę miesięcy
+można im wybrać dowolnie), dla listy wszystkich stanowisk z internetem
+sprawdzenie czy InternetConnection jest ustawiony na true.
